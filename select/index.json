@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "窓",
+  "base_artist": "TOMOO",
+  "createdAt": "2025-12-03T13:57:07.742930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Intro : 창 (窓 : Window) (Feat. 최예림)",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/01_Intro___창_(窓___Window)_(Feat._최예림)_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "窓 (Moment of Twilight)",
+      "artist": "吉田 美奈子",
+      "has_synced": false,
+      "path": "select/02_窓_(Moment_of_Twilight)_吉田_美奈子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "菊池桃子",
+      "has_synced": false,
+      "path": "select/03_窓_菊池桃子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": ". 窓",
+      "artist": "Momoko Kikuchi",
+      "has_synced": false,
+      "path": "select/04_._窓_Momoko_Kikuchi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Finestra / 窓",
+      "artist": "Quercia",
+      "has_synced": false,
+      "path": "select/05_Finestra___窓_Quercia.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/06_窓_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "奥井亜紀",
+      "has_synced": false,
+      "path": "select/07_窓_奥井亜紀.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/08_窓_くるり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Intro : Window (Feat. Choi Ye Lim) (Intro : 창 (窓 : Window) (feat. Choi Ye Lim)",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/09_Intro___Window_(Feat._Choi_Ye_Lim)_(Intro___창_(窓___Window)_(feat._Choi_Ye_Lim)_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/10_窓_TOMOO.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Quercia - Finestra / 窓",
+      "artist": "Quercia",
+      "has_synced": false,
+      "path": "select/11_Quercia_-_Finestra___窓_Quercia.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "CRCK/LCKS",
+      "has_synced": true,
+      "path": "select/12_窓_CRCK_LCKS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "窓",
+      "artist": "Momoko Kikuchi",
+      "has_synced": false,
+      "path": "select/13_窓_Momoko_Kikuchi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "窓",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_窓_TOMOO.txt"
+    }
+  ]
+}
